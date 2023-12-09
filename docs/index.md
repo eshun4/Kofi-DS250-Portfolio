@@ -85,7 +85,7 @@ Beyond the numerical achievements, this project showcased my adaptability and ca
 
 ## Resume
 
-You can view my resume on [GitHub Pages](https://yourusername.github.io/your-portfolio/resume).
+You can view my resume on [GitHub Pages](https://eshun4.github.io/Kofi-DS250-Portfolio/blob/master/resume).
 
 ## Contact
 
